@@ -1,4 +1,4 @@
-# Business-Projects
+# Business Projects
 
 Business projects from my EIT Digital Data Science Master's degree.
 
